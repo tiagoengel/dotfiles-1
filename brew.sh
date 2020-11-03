@@ -36,7 +36,7 @@ fi;
 brew install wget --with-iri
 
 # Install GnuPG to enable PGP-signing commits.
-brew install gnupg
+# brew install gnupg
 
 # Install more recent versions of some macOS tools.
 brew install vim --with-override-system-vi
@@ -46,10 +46,10 @@ brew install screen
 # brew install homebrew/php/php56 --with-gmp
 
 # Install font tools.
-brew tap bramstein/webfonttools
-brew install sfnt2woff
-brew install sfnt2woff-zopfli
-brew install woff2
+# brew tap bramstein/webfonttools
+# brew install sfnt2woff
+# brew install sfnt2woff-zopfli
+# brew install woff2
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 # brew install aircrack-ng
